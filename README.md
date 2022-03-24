@@ -9,4 +9,5 @@
   <li> Many inbuilts methods are available in this module, which can be invoked when required. </li>
   <li> I had also added some funny patterns like Heart which you can use to impress your crush 🤣. </li>
   <li> When you execute any turtle imported code, then a new command prompt will get open named as 'Python Turtle Graphics' & there you can see your output of the code.
+  <li> With turtle module, we can also design a logo. Some of the examples I have shown below. </li>
 </ul>
