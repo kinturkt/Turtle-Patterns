@@ -1,6 +1,6 @@
 # Turtle-Patterns
 
-## To install this module, type pip install turle & hit enter in the cmd (for windows only).
+## To install this module, type pip install turtle & hit enter in the cmd (for windows only).
 
 <ul>
   <li> Turtle can draw intricate shapes using programs that repeat simple moves. </li>
